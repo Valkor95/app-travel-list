@@ -1,2 +1,2 @@
 # Pet project
-From training course of React by Jonas Schmedtmann
+From training course of React by Jonas Schmedtmann by Udemy
